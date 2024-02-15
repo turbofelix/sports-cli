@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import click
 
 from sportscli.cli import _test_function
